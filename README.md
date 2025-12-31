@@ -56,7 +56,7 @@ This project applies PCA for dimensionality reduction and K-Means clustering to 
 Both encoded and preprocessed data require ~46 PCs for 80% variance, showing that survey responses capture diverse, independent aspects of personality.
 
 ### Cluster Visualization
-![Score Graph with Clusters](figures/ScoreGraph_with_3Clusters)
+![Score Graph with Clusters](figures/ScoreGraph_with_3Clusters.png)
 
 Three distinct customer profiles identified in the PCA space.
 
